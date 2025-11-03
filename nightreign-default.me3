@@ -1,0 +1,11 @@
+profileVersion = "v1"
+
+[[supports]]
+game = "nightreign"
+
+[[package]]
+id = "default-mods"
+path = "nightreign-mods"
+
+[[natives]]
+path = "SCNR/nrsc.dll"

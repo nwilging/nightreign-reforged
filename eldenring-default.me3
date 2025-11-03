@@ -1,0 +1,8 @@
+profileVersion = "v1"
+
+[[supports]]
+game = "eldenring"
+
+[[package]]
+id = "default-mods"
+path = "eldenring-mods"
