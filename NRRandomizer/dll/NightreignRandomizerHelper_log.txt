@@ -1,0 +1,58 @@
+--------------------------------------------------------------------------------
+[2025-11-03 13:10:16] Settings: patchSeed=false, seed=0x00000000*, saveFileExtension=co2
+[2025-11-03 13:10:16] # Did not patch seed 0x00000000 (patchSeed is false)
+[2025-11-03 13:10:30] # Patched save file: C:\Users\nicole\AppData\Roaming\Nightreign\76561198360297729\NR0000.co2
+--------------------------------------------------------------------------------
+[2025-11-03 13:14:21] Settings: patchSeed=false, seed=0x00000000*, saveFileExtension=co2
+[2025-11-03 13:14:21] # Did not patch seed 0x00000000 (patchSeed is false)
+[2025-11-03 13:14:35] # Patched save file: C:\Users\nicole\AppData\Roaming\Nightreign\76561198360297729\NR0000.co2
+--------------------------------------------------------------------------------
+[2025-11-03 13:14:45] Settings: patchSeed=false, seed=0x00000000*, saveFileExtension=co2
+[2025-11-03 13:14:45] # Did not patch seed 0x00000000 (patchSeed is false)
+--------------------------------------------------------------------------------
+[2025-11-03 13:14:49] Settings: patchSeed=false, seed=0x00000000*, saveFileExtension=co2
+[2025-11-03 13:14:49] # Did not patch seed 0x00000000 (patchSeed is false)
+--------------------------------------------------------------------------------
+[2025-11-03 13:14:55] Settings: patchSeed=false, seed=0x00000000*, saveFileExtension=co2
+[2025-11-03 13:14:55] # Did not patch seed 0x00000000 (patchSeed is false)
+--------------------------------------------------------------------------------
+[2025-11-03 13:15:03] Settings: patchSeed=false, seed=0x00000000*, saveFileExtension=co2
+[2025-11-03 13:15:03] # Did not patch seed 0x00000000 (patchSeed is false)
+[2025-11-03 13:15:16] # Patched save file: C:\Users\nicole\AppData\Roaming\Nightreign\76561198360297729\NR0000.co2
+--------------------------------------------------------------------------------
+[2025-11-03 13:15:24] Settings: patchSeed=false, seed=0x00000000*, saveFileExtension=co2
+[2025-11-03 13:15:24] # Did not patch seed 0x00000000 (patchSeed is false)
+--------------------------------------------------------------------------------
+[2025-11-03 13:15:28] Settings: patchSeed=false, seed=0x00000000*, saveFileExtension=co2
+[2025-11-03 13:15:28] # Did not patch seed 0x00000000 (patchSeed is false)
+--------------------------------------------------------------------------------
+[2025-11-03 13:15:30] Settings: patchSeed=false, seed=0x00000000*, saveFileExtension=co2
+[2025-11-03 13:15:30] # Did not patch seed 0x00000000 (patchSeed is false)
+--------------------------------------------------------------------------------
+[2025-11-03 13:15:32] Settings: patchSeed=false, seed=0x00000000*, saveFileExtension=co2
+[2025-11-03 13:15:32] # Did not patch seed 0x00000000 (patchSeed is false)
+--------------------------------------------------------------------------------
+[2025-11-03 13:15:33] Settings: patchSeed=false, seed=0x00000000*, saveFileExtension=co2
+[2025-11-03 13:15:34] # Did not patch seed 0x00000000 (patchSeed is false)
+--------------------------------------------------------------------------------
+[2025-11-03 13:15:36] Settings: patchSeed=false, seed=0x00000000*, saveFileExtension=co2
+[2025-11-03 13:15:36] # Did not patch seed 0x00000000 (patchSeed is false)
+--------------------------------------------------------------------------------
+[2025-11-03 13:15:42] Settings: patchSeed=false, seed=0x00000000*, saveFileExtension=co2
+[2025-11-03 13:15:43] # Did not patch seed 0x00000000 (patchSeed is false)
+--------------------------------------------------------------------------------
+[2025-11-03 13:15:54] Settings: patchSeed=false, seed=0x00000000*, saveFileExtension=co2
+[2025-11-03 13:15:54] # Did not patch seed 0x00000000 (patchSeed is false)
+--------------------------------------------------------------------------------
+[2025-11-03 13:15:56] Settings: patchSeed=false, seed=0x00000000*, saveFileExtension=co2
+[2025-11-03 13:15:56] # Did not patch seed 0x00000000 (patchSeed is false)
+--------------------------------------------------------------------------------
+[2025-11-03 13:15:59] Settings: patchSeed=false, seed=0x00000000*, saveFileExtension=co2
+[2025-11-03 13:15:59] # Did not patch seed 0x00000000 (patchSeed is false)
+--------------------------------------------------------------------------------
+[2025-11-03 13:16:01] Settings: patchSeed=false, seed=0x00000000*, saveFileExtension=co2
+[2025-11-03 13:16:01] # Did not patch seed 0x00000000 (patchSeed is false)
+--------------------------------------------------------------------------------
+[2025-11-03 13:17:10] Settings: patchSeed=false, seed=0x00000000*, saveFileExtension=co2
+[2025-11-03 13:17:10] # Did not patch seed 0x00000000 (patchSeed is false)
+[2025-11-03 13:17:23] # Patched save file: C:\Users\nicole\AppData\Roaming\Nightreign\76561198360297729\NR0000.co2

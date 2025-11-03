@@ -1,0 +1,89 @@
+Options and seed: v2 seed:z5mrm8c
+Real seed: 4151553848
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Writing to E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\regulation.bin
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\event\common.emevd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\event\common_func.emevd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\event\m10_00_00_00.emevd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\event\m11_00_00_00.emevd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\event\m12_00_00_00.emevd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\msg\deude\menu.msgbnd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\msg\engus\menu.msgbnd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\msg\frafr\menu.msgbnd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\msg\itait\menu.msgbnd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\msg\jpnjp\menu.msgbnd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\msg\korkr\menu.msgbnd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\msg\polpl\menu.msgbnd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\msg\porbr\menu.msgbnd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\msg\rusru\menu.msgbnd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\msg\spaar\menu.msgbnd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\msg\spaes\menu.msgbnd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\msg\thath\menu.msgbnd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\msg\zhocn\menu.msgbnd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\msg\zhotw\menu.msgbnd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\msg\deude\item.msgbnd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\msg\engus\item.msgbnd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\msg\frafr\item.msgbnd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\msg\itait\item.msgbnd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\msg\jpnjp\item.msgbnd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\msg\korkr\item.msgbnd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\msg\polpl\item.msgbnd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\msg\porbr\item.msgbnd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\msg\rusru\item.msgbnd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\msg\spaar\item.msgbnd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\msg\spaes\item.msgbnd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\msg\thath\item.msgbnd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\msg\zhocn\item.msgbnd.dcx
+Writing E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\msg\zhotw\item.msgbnd.dcx

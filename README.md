@@ -33,7 +33,7 @@ Collection of mods for ER Nightreign. Includes dll mods and merged regulation.bi
 
    <img width="601" height="172" alt="image" src="https://github.com/user-attachments/assets/fef49814-2c66-4330-93ab-074b31da3499" />
 
-8. Enjoy!
+8. Double click on `launch-nightreign-random.bat` to run
 
 ## Reversing Randomizer
 

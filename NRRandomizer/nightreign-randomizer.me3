@@ -7,9 +7,6 @@
 profileVersion = "v1"
 
 [[natives]]
-path = '''E:\Games\Steam\steamapps\common\Nightreign Modded\SCNR\nrsc.dll'''
-
-[[natives]]
 path = '''E:\Games\Steam\steamapps\common\Nightreign Modded\NRRandomizer\dll\NightreignRandomizerHelper.dll'''
 # Needed for fmg hook
 load_before = [ {"id" = "nrsc.dll", "optional" = true} ]
